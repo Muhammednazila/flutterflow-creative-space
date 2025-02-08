@@ -27,12 +27,12 @@ const Index = () => {
       {/* Portfolio Section */}
       <section id="work" className="py-20 bg-accent">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-12">Featured Projects</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">My Featured Projects</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProjectCard
               title="E-commerce App"
               description="Built with FlutterFlow, designed in Figma. A modern shopping experience."
-              image="https://source.unsplash.com/random/800x600?app"
+              image="https://github.com/Muhammednazila/flutterflow-creative-space/main/images/logistics1111.png"
               caseStudyUrl="#"
             />
             <ProjectCard
