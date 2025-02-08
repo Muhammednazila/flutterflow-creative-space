@@ -32,7 +32,7 @@ const Index = () => {
             <ProjectCard
               title="E-commerce App"
               description="Built with FlutterFlow, designed in Figma. A modern shopping experience."
-              image="https://github.com/Muhammednazila/flutterflow-creative-space/main/images/logistics1111.png"
+              image="https://source.unsplash.com/random/800x600?social"
               caseStudyUrl="#"
             />
             <ProjectCard
